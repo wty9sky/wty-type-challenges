@@ -2,6 +2,7 @@
 
 ### 练习列表
 
+#### EASY:
 - [x] 13.Hello World
 - [x] 4.Easy Pick
 - [x] 7.Easy Readonly
